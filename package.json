@@ -38,5 +38,6 @@
 	},
 	"eslintConfig": {
 		"extends": "@shinnn"
-	}
+	},
+	"types": "index.d.ts"
 }
